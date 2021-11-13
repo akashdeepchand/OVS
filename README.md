@@ -1,5 +1,5 @@
-# OVS
-Online Voting System Project
+## OVS
+# Online Voting System Project
 
 ### Members
 Akashdeep Chand <br />
