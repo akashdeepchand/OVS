@@ -2,7 +2,7 @@
 Online Voting System Project
 
 ### Members
-Akashdeep Chand
-Pooja Sharma
+Akashdeep Chand <br />
+Pooja Sharma <br />
 Abhishek Gupta
 
